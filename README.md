@@ -40,3 +40,6 @@ ix.char.RegisterVar("thirst", {
 	bNoDisplay = true
 })
 ```
+
+![Bars](https://i.imgur.com/ZKVEoXY.png)
+![Options on TAB](https://i.imgur.com/kys66jI.png)
