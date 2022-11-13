@@ -17,8 +17,6 @@ Options allowed for normal users on TAB helix menu:
 ## Instalation
 - Put file from plugins > thestral_hud.lua into your helixSchema > plugins
 - Create new addon with the materials
-- Add translations from the sh_spanish.lua into your gamemodes > helix > gamemode > languages > sh_your_language.lua
-
 
 ## Problem
 Maybe you have problems if you dont have Hunger and Thrist system.
